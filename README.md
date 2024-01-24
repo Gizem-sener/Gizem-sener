@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gizem-sener
-- 👀 I’m interested in Data Analytics as a beginner. 
-- 🌱 I’m currently learning how to be a data analyst. 
+- 👀 I’m interested in Data Science as a beginner. 
+- 🌱 I’m currently learning how to develop mobile apps. 
 - 💞️ I’m looking to collaborate on learning new skills. 
 - 📫 How to reach me senerrgizemm@gmail.com 
 
